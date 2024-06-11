@@ -7,3 +7,6 @@ website = Flask("__name__")
 @website.route('/')
 def index():
     return "<h1>Hello World</h1>"
+
+
+website.run(host="0.0.0.0", port=80)
