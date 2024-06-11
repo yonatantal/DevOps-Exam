@@ -114,4 +114,12 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
 .idea/**/azureSettings.xml
 
+# my files
+.idea/.gitignore
+.idea/DevOps-Exam.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
 # End of https://www.toptal.com/developers/gitignore/api/pycharm
