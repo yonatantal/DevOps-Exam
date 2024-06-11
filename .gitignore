@@ -122,4 +122,7 @@ fabric.properties
 .idea/modules.xml
 .idea/vcs.xml
 
+.github/workflows/bin/act
+/bin/act
+.DS_Store
 # End of https://www.toptal.com/developers/gitignore/api/pycharm
